@@ -1,0 +1,13 @@
+
+# Registration Automation Project - Setup Guide
+
+
+1. Create a Google Form with fields: Full Name, Email, Course.
+2. Link the form to a Google Sheet and add add two columns:Status and Student ID
+  .
+3. Paste the code in Apps Script and set triggers(Function:onFormSubmit and Eventsource:From spreadsheet and and Event type: On form submit )
+   - 
+   
+   - 
+
+
